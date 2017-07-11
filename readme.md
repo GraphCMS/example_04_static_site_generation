@@ -2,6 +2,8 @@
 
 This is an example static site made with [graphcms](https://graphcms.com/) and [spike](https://spike.cf), and hosted on [netlify](https://netlify.com). You can see the full sample app live [here](https://spike-graphcms.netlify.com/)!
 
+A detailed blog post can be found [here](https://graphcms.com/blog/static-site-generation-using-graphcms-spike-and-netlify).
+
 ## Setup
 
 - make sure [node.js](http://nodejs.org) is at version >= `6`
